@@ -17,7 +17,7 @@ Remake Many Lives, Many Master exsisting book cover using Photo Shop.
 ## Setup/Installation Requirements
 
 * Clone github: https://github.com/vmartinezlive/book-cover-remake.git
-* Open Adobe PhotShop application
+* Open Adobe PhotoShop application
 
 ## Known Bugs
 
